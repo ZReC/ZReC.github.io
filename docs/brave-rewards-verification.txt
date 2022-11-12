@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: zrec.github.io
+Token: 301a619e84578c56650909543d1d1d605247f1a3e73266aea8902dd0f3195bb7
